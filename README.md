@@ -1,5 +1,5 @@
 # Social Media Backend API
-### A Node.js + Express + MongoDB backend for a simple social media application.
+### A Node.js + Express + MongoDB backend for a social media application.
 ### It supports user authentication, posts, comments, likes, and notifications.
 
 ## Features
