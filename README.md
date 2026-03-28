@@ -1,6 +1,6 @@
 # Social Media Backend API
 ### A Node.js + Express + MongoDB backend for a social media application.
-### It supports user authentication, posts, comments, likes, and notifications.
+### It supports user authentication, posts, comments, likes
 
 ## Features
 1. User Authentication: Signup & login with salted + hashed passwords (PBKDF2 + crypto).
